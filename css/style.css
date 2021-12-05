@@ -1,0 +1,19 @@
+*{
+    background-image: url(/image/IMG_2358.JPG);
+    background-repeat: no-repeat;
+}
+
+.heading{
+    text-align: center;
+    border: 5px solid greenyellow;
+    margin: 50px;
+    font-size: 3em;
+}
+p{
+    background: transparent; 
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
